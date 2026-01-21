@@ -1,0 +1,12 @@
+Department,JobRole,Employee_Count,Avg_Monthly_Income,Avg_Performance_Rating,Avg_Job_Satisfaction
+Sales,"Sales Executive",326,6924.28,3.13,2.75
+"Research & Development","Research Scientist",292,3239.97,3.17,2.77
+"Research & Development","Laboratory Technician",259,3237.17,3.16,2.69
+"Research & Development","Manufacturing Director",145,7295.14,3.19,2.68
+"Research & Development","Healthcare Representative",131,7528.76,3.15,2.79
+Sales,Manager,37,16986.97,3.22,2.76
+Sales,"Sales Representative",83,2626.00,3.14,2.73
+"Research & Development","Research Director",80,16033.55,3.10,2.70
+"Research & Development",Manager,54,17130.33,3.19,2.65
+"Human Resources","Human Resources",52,4235.75,3.13,2.56
+"Human Resources",Manager,11,18088.64,3.18,2.82
